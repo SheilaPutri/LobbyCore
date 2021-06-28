@@ -1,4 +1,4 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/SheilaPutri/LobbyCore
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/SheilaPutri/LobbyCoresjj
 build-by-default: true
 branches:
 - main
